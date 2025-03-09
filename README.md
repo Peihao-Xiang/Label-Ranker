@@ -36,7 +36,7 @@ Fig. 1 Illustration of the Problem Origin. The impact of randomly initializing t
 Fig. 2 Label Ranker Processing: Linear Discriminant Analysis is used to reduce the dimension of features into 1-D and map them to the linear projection panel.
 
 <p align="center">
-  <img src="Images/LDA_com.png" width=90%
+  <img src="Images/LDA_com.png" width=60%
     class="center"><br>
 </p>
 
@@ -44,17 +44,17 @@ Fig. 3 Classification Label Sequence. Calculate the centroid and Euclidean dista
 
 ## Main Results
 
-### RAVDESS
+### CIFRA-100
 
-![Result_on_RAVDESS](Images/Result_RAVDESS.png)
+![Result_on_CIFRA-100](Images/Results_CIFRA-100.png)
 
-### CREMA-D
+### UCF101
 
-![Result_on_CREMA-D](Images/Result_CREMA-D.png)
+![Result_on_UCF101](Images/Results_UCF101.png)
 
-### MEAD
+### HMDB51
 
-![Result_on_MEAD](Images/Result_MEAD.png)
+![Result_on_HMDB51](Images/Results_HMDB51.png)
 
 ## Contact 
 
