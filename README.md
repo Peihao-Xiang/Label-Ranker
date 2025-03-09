@@ -50,11 +50,11 @@ Fig. 3 Classification Label Sequence. Calculate the centroid and Euclidean dista
 
 ### UCF101
 
-![Result_on_UCF101](Images/Result_UCF101.png)
+![Result_on_UCF101](Images/Results_UCF101.png)
 
 ### HMDB51
 
-![Result_on_HMDB51](Images/Result_HMDB51.png)
+![Result_on_HMDB51](Images/Results_HMDB51.png)
 
 ## Contact 
 
