@@ -1,9 +1,5 @@
 # Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model (ACM ICMR 2025)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/label-ranker-self-aware-preference-for/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=label-ranker-self-aware-preference-for)<br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/label-ranker-self-aware-preference-for/human-activity-recognition-on-hmdb51)](https://paperswithcode.com/sota/human-activity-recognition-on-hmdb51?p=label-ranker-self-aware-preference-for)<br>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/label-ranker-self-aware-preference-for/human-activity-recognition-on-ucf-101)](https://paperswithcode.com/sota/human-activity-recognition-on-ucf-101?p=label-ranker-self-aware-preference-for)<br>
-
 > [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Preprints.org link](https://img.shields.io/static/v1?label=Preprints&message=Label-Ranker&color=red&logo=Preprints)](https://www.preprints.org/manuscript/202503.0003/v1) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
@@ -81,5 +77,13 @@ If you find this repository helpful, please consider citing our work:
 	author = {Peihao Xiang and Kaida Wu and Ou Bai},
 	title = {Label Ranker: Self-Aware Preference for Classification Label Position in Visual Masked Self-Supervised Pre-Trained Model},
 	journal = {Preprints}
+}
+
+@inproceedings{xiang2025label,
+  title={Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model},
+  author={Xiang, Peihao and Bai, Ou},
+  booktitle={Proceedings of the 2025 International Conference on Multimedia Retrieval},
+  pages={1535--1541},
+  year={2025}
 }
 ```
