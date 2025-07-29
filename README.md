@@ -1,6 +1,6 @@
 # Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model (ACM ICMR 2025)
 
-> [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Preprints.org link](https://img.shields.io/static/v1?label=Preprints&message=Label-Ranker&color=red&logo=Preprints)](https://www.preprints.org/manuscript/202503.0003/v1) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation)<br>
+> [![HCPS link](https://img.shields.io/badge/FIU-HCPS-red)](https://hcps.fiu.edu/) [![Preprints.org link](https://img.shields.io/static/v1?label=Preprints&message=Label-Ranker&color=red&logo=Preprints)](https://www.preprints.org/manuscript/202503.0003/v1) [![Citation link](https://img.shields.io/badge/Citation-BibTeX-red)](#citation)[![ICMR link](https://img.shields.io/badge/IEEE_ICMR--25-Label--Ranker-red)](https://doi.org/10.1145/3731715.3733369)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
 
