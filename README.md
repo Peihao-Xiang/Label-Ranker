@@ -1,4 +1,4 @@
-# Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model (ICMR 2025)
+# Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model (ACM ICMR 2025)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/label-ranker-self-aware-preference-for/image-classification-on-cifar-100)](https://paperswithcode.com/sota/image-classification-on-cifar-100?p=label-ranker-self-aware-preference-for)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/label-ranker-self-aware-preference-for/human-activity-recognition-on-hmdb51)](https://paperswithcode.com/sota/human-activity-recognition-on-hmdb51?p=label-ranker-self-aware-preference-for)<br>
