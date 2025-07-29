@@ -79,11 +79,18 @@ If you find this repository helpful, please consider citing our work:
 	journal = {Preprints}
 }
 
-@inproceedings{xiang2025label,
-  title={Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model},
-  author={Xiang, Peihao and Bai, Ou},
-  booktitle={Proceedings of the 2025 International Conference on Multimedia Retrieval},
-  pages={1535--1541},
-  year={2025}
+@inproceedings{10.1145/3731715.3733369,
+author = {Xiang, Peihao and Bai, Ou},
+title = {Label Ranker: Self-aware Preference for Classification Label Position in Visual Masked Self-supervised Pre-trained Model},
+year = {2025},
+isbn = {9798400718779},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3731715.3733369},
+doi = {10.1145/3731715.3733369},
+pages = {1535–1541},
+numpages = {7},
+location = {Chicago, IL, USA},
+series = {ICMR '25}
 }
 ```
